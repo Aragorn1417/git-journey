@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-four444
-=======
-
-4four
->>>>>>> staging
